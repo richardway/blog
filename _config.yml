@@ -71,4 +71,4 @@ deploy:
   type: git
   repo: https://github.com/richardway/blog.git
   branch: gh-pages
-  message:
+  message: 
